@@ -27,6 +27,9 @@ function Input(props) {
 
         <button onClick={buttonHanbel}>ADD</button>
         <button onClick={buttonHanbel}>ADD</button>
+        <button onClick={buttonHanbel}>ADD</button>
+        <button onClick={buttonHanbel}>ADD</button>
+        <button onClick={buttonHanbel}>ADD</button>
     </div>
   )
 }
