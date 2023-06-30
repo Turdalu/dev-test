@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dev-test/static/css/main.7cfc8c7d.css",
+    "main.js": "/dev-test/static/js/main.14af4c4f.js",
+    "index.html": "/dev-test/index.html",
+    "main.7cfc8c7d.css.map": "/dev-test/static/css/main.7cfc8c7d.css.map",
+    "main.14af4c4f.js.map": "/dev-test/static/js/main.14af4c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfc8c7d.css",
+    "static/js/main.14af4c4f.js"
+  ]
+}
